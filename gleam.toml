@@ -3,6 +3,7 @@ version = "1.0.0"
 
 description = "A simple gleam library for creating tables based on columns and rows."
 licences = ["MIT"]
+repository = { type = "github", user = "DeveloperSpoot", repo = "fabulous" }
 
 [dependencies]
 gleam_stdlib = ">= 0.44.0 and < 2.0.0"
